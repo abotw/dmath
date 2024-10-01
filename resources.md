@@ -6,6 +6,7 @@ layout: home
 
 ## 1. Courses, 相关课程
 
+- [CS70: Discrete Mathematics and Probability Theory](https://www.eecs70.org/) (Fall 2024, UCB, Satish Rao and Josh Hug)
 - Mathematics for Computer Science ([Spring 2015](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/), MIT, [Prof. Albert R. Meyer](https://ocw.mit.edu/search/?q=Prof.+Albert+R.+Meyer) and[Prof. Adam Chlipala](https://ocw.mit.edu/search/?q=Prof.+Adam+Chlipala))
 - [CS103: Mathematical Foundations of Computing](https://web.stanford.edu/class/cs103/) (Fall 2024, [Stanford](https://web.stanford.edu/), Keith Schwarz and Sean Szumlanski)
 - [Computer Science 20: Discrete Mathematics for Computer Science](https://lewis.seas.harvard.edu/pages/harvard-computer-science-20-discrete-mathematics-computer-science) (Harvard, Harry R. Lewis)
@@ -20,6 +21,7 @@ layout: home
 - [Discrete Mathematics](https://www.csie.ntu.edu.tw/~lyuu/dm.html) (Spring 2024, [NTU](https://www.csie.ntu.edu.tw/), [Prof. Lyuu](https://www.csie.ntu.edu.tw/~lyuu/))
 - [離散數學](https://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=129) (國立清華大學, 韓永楷)
 - [離散數學](https://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=288) (國立清華大學, [趙啟超](https://www.ee.nthu.edu.tw/ccc/))
+	- **第1講 Logic and Set Theory**
 
 ## 2. Online Docs, 在线文档
 
