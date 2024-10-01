@@ -7,7 +7,7 @@ layout: home
 ## 基本信息
 
 <dl>
-  <dt>名称</dt>
+  <dt>课程</dt>
   <dd>Discrete Mathematics (离散数学)</dd>
   <dt>主讲</dt>
   <dd>华姗姗</dd>
