@@ -1,6 +1,6 @@
 ---
 title: Schedule
-layout: home
+layout: page
 ---
 # Schedule, 学期日程
 
@@ -32,4 +32,4 @@ Dec                    1
 
 ---
 
-Last Updated: Tue Oct  1 13:27:39 CST 2024
+Last Updated: Tue Oct 29 22:05:20 CST 2024

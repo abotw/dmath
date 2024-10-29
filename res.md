@@ -1,10 +1,10 @@
 ---
 title: Resources
-layout: home
+layout: page
 ---
-# Resources, 课程资源
+# Resources
 
-## 1. Courses, 相关课程
+## 1. Courses
 
 - [CS70: Discrete Mathematics and Probability Theory](https://www.eecs70.org/) (Fall 2024, UCB, Satish Rao and Josh Hug)
 - Mathematics for Computer Science ([Spring 2015](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/), MIT, [Prof. Albert R. Meyer](https://ocw.mit.edu/search/?q=Prof.+Albert+R.+Meyer) and[Prof. Adam Chlipala](https://ocw.mit.edu/search/?q=Prof.+Adam+Chlipala))
@@ -23,10 +23,11 @@ layout: home
 - [離散數學](https://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=288) (國立清華大學, [趙啟超](https://www.ee.nthu.edu.tw/ccc/))
 	- **第1講 Logic and Set Theory**
 
-## 2. Online Docs, 在线文档
+## 2. Online Docs
 
 - 离散数学.2021-01-06.[https://www.yuque.com/0xffff.one/cs-learning/discrete-math](https://www.yuque.com/0xffff.one/cs-learning/discrete-math).
 	- 内附思维导图可再参考
 
 ---
-Last Updated: Tue Oct  1 11:54:34 CST 2024
+Last Updated: Tue Oct 29 22:05:47 CST 2024
+
