@@ -1,5 +1,5 @@
 ---
-title: 离散数学 (2024秋季学期, HFU)
+title: Home
 layout: home
 ---
 # 离散数学 (2024秋季学期, HFU)
