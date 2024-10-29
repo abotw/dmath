@@ -15,7 +15,7 @@ Sep  2  3  4  5  6  7  8
 Oct     <span style="color: green;"><b>1  2  3  4  5  6</b></span>    National Day holiday
     <span style="color: green;"><b> 7</b></span>  8 <span style="color: red;"><b> 9</b></span> 10 11 <span style="color: red;"><b>12</b></span> 13    lec 05, lec 06
     <span style="color: red;"><b>14</b></span> 15 <span style="color: red;"><b>16</b></span> 17 18 19 20    lec 07, lec 08
-    <span style="color: red;"><b>21</b></span> 22 <span style="color: red;"><b>23</b></span> 24 25 26 27    lec 09, lec 10
+    <span style="color: red;"><b>21</b></span> 22 <span style="color: red;"><b>23</b></span> <span style="color: green;"><b>24 25</b></span> 26 27    lec 09, lec 10; 运动会停课
     <span style="color: red;"><b>28</b></span> 29 <span style="color: red;"><b>30</b></span> 31             lec 11, lec 12
 Nov              1  2  3    
     <span style="color: red;"><b> 4</b></span>  5 <span style="color: red;"><b> 6</b></span>  7  8  9 10    lec 13, lec 14
