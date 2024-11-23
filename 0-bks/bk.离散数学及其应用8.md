@@ -2,6 +2,7 @@
 title: Discrete Mathematics and Its Applications(8ed)
 layout: page
 parent: Books
+last updated: 2024-11-23T17:53:00
 ---
 # Discrete Mathematics and Its Applications(8ed)
 
@@ -30,7 +31,3 @@ parent: Books
 - 12  Boolean Algebra  847
 - 13  Modeling Computation  885
 - Appendices  A-1
-
----
-
-Last Updated: Tue Oct  1 12:55:35 CST 2024
