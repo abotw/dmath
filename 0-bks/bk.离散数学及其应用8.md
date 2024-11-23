@@ -1,7 +1,7 @@
 ---
 title: Discrete Mathematics and Its Applications(8ed)
-layout: home
-parent: Textbooks
+layout: page
+parent: Books
 ---
 # Discrete Mathematics and Its Applications(8ed)
 

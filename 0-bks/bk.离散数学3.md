@@ -1,7 +1,7 @@
 ---
 title: 离散数学(第3版)
-layout: home
-parent: Textbooks
+layout: page
+parent: Books
 ---
 # 离散数学(第3版)
 
