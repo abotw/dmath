@@ -1,7 +1,19 @@
 ---
+lab: 1
+title: "Lab 1: 集合的并、交和差运算"
+layout: page
 last updated: 2024-11-14T14:02:00
+date: 2024-11-14
+parent: Labs
 ---
 # Lab 1: 集合的并、交和差运算
+{: .no_toc }
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## 问题描述
 
@@ -41,6 +53,13 @@ se1.intersect(set2) = "aeort"
 3. 集合的混合运算表达式求值。
 4. 集合的元素类型推广到其他类型，甚至任意类型。
 
+## 补充资料
+
+- <https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1252/lectures/06-set-map/>
+- <https://web.stanford.edu/dept/cs_edu/resources/cslib_docs/Set>
+- https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1252/lectures/06-set-map/slides
+- http://acm2006.scusa.lsu.edu/doc/cppreference/cppset/all.html
+
 | Methods                                                                                                     |                |                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------- |
 | **[add(value)](https://web.stanford.edu/dept/cs_edu/resources/cslib_docs/Set#Method:add)**                  | **O(log N)**   | **Adds an element to this set, if it was not already there.**                                                       |
@@ -78,10 +97,4 @@ se1.intersect(set2) = "aeort"
 | **[ostream << set](https://web.stanford.edu/dept/cs_edu/resources/cslib_docs/Set#Operator:%3C%3C)**          | **O(N)**       | **Outputs the contents of `set` to the given output stream.**                  |
 | **[istream >> set](https://web.stanford.edu/dept/cs_edu/resources/cslib_docs/Set#Operator:%3E%3E)**          | **O(N log N)** | **Reads the contents of the given input stream into `set`.**                   |
 
----
-
-- <https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1252/lectures/06-set-map/>
-- <https://web.stanford.edu/dept/cs_edu/resources/cslib_docs/Set>
-- https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1252/lectures/06-set-map/slides
-- http://acm2006.scusa.lsu.edu/doc/cppreference/cppset/all.html
 
