@@ -1,6 +1,8 @@
 ---
 title: Schedule
 layout: page
+last updated: 2024-11-23T16:39:00
+semester: Fall 2024
 ---
 # Schedule, 学期日程
 
@@ -29,7 +31,3 @@ Dec                    1
     23 24 25 26 27 28 29    
     30 31
 </pre>
-
----
-
-Last Updated: Tue Oct 29 22:05:20 CST 2024

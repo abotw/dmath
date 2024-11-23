@@ -4,14 +4,21 @@ layout: page
 last updated: 2024-11-23T16:36:00
 ---
 # 学习资料
+{: .no_toc }
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## 课程资料
 
 | **Univ**                               | **Num**             | **Name**                                             | **Semester**                                                                                                                                                                                   | **Instructor**                                      |
 | -------------------------------------- | ------------------- | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
 | **[上海师范大学](https://www.shnu.edu.cn/)** | **080931104261.01** | **离散数学**                                             | **[Fall 2024](https://www.dm2024w.spacepenguin.com.cn/)<br>[Fall 2023](https://www.dm2023w.spacepenguin.com.cn/)**                                                                             | **[杨启哲](https://basics.sjtu.edu.cn/~yangqizhe/)**   |
-| [南京大学](https://cs.nju.edu.cn/main.htm) |                     | 离散数学                                                 | [Fall 2024](https://cs.nju.edu.cn/yuanyao/dismath.htm)                                                                                                                                         | [姚远](https://cs.nju.edu.cn/yuanyao/index.htm)       |
-| [南京大学](https://cs.nju.edu.cn/main.htm) |                     | 离散数学                                                 | [Spring 2019](https://cs.nju.edu.cn/shiyh/DM2019/index.htm)<br>[Spring 2018](https://cs.nju.edu.cn/shiyh/DM2018/index.htm)<br>[Spring 2017](https://cs.nju.edu.cn/shiyh/DM2017/index.html)<br> | [史颖欢](https://cs.nju.edu.cn/shiyh/index.htm)        |
+| [南京大学](https://cs.nju.edu.cn/main.htm) | /                   | 离散数学                                                 | [Fall 2024](https://cs.nju.edu.cn/yuanyao/dismath.htm)                                                                                                                                         | [姚远](https://cs.nju.edu.cn/yuanyao/index.htm)       |
+| [南京大学](https://cs.nju.edu.cn/main.htm) | /                   | 离散数学                                                 | [Spring 2019](https://cs.nju.edu.cn/shiyh/DM2019/index.htm)<br>[Spring 2018](https://cs.nju.edu.cn/shiyh/DM2018/index.htm)<br>[Spring 2017](https://cs.nju.edu.cn/shiyh/DM2017/index.html)<br> | [史颖欢](https://cs.nju.edu.cn/shiyh/index.htm)        |
 | [西安电子科技大学](https://web.xidian.edu.cn/) | /                   | [离散数学](https://web.xidian.edu.cn/jbhuang/dmath.html) | /                                                                                                                                                                                              | [黄健斌](https://web.xidian.edu.cn/jbhuang/index.html) |
 
 | **Univ**                                      | **Num** | **Name**                                                          | **Semester** | **Instructor**                                   |
