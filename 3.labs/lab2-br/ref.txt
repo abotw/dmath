@@ -1,0 +1,6 @@
+https://public.websites.umich.edu/~eecs381/handouts/NamespaceGuide.pdf
+https://www.cs.clemson.edu/course/cpsc827/material/Language%20Theory/Binary%20Relations.pdf
+https://web.cecs.pdx.edu/~harry/discrete/
+    https://web.cecs.pdx.edu/~harry/discrete/slides/Section4.1.pdf
+https://cse.buffalo.edu/~xinhe/cse191/Classnotes/note09-1x2.pdf
+https://courses.ics.hawaii.edu/ReviewICS241/morea/relations/Relations3-QA.pdf
